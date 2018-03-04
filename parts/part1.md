@@ -1,12 +1,12 @@
 # Part 1 - Getting Started
 ## Overview
-Before we can make anything crazy, we need to get React running. This part focuses on getting React up and running as well as configuring the build system to use SASS instead of CSS.
+Before we can make anything crazy, we need to get React running. This part focuses on getting React up and running and customizing it slightly.
 
 ## Goals
 By the end of this section you will have done the following:
 * Stood up a React development environment with `create-react-app`
 * Created a basic landing page.
-* Styled the basic landing page with SASS.
+* Styled the basic landing page with CSS.
 
 ## Step 1 - Get `create-react-app` Running
 This step can be easily completed by referring to the [Quick Overview](https://github.com/facebook/create-react-app#quick-overview) section of the `create-react-app` repo or by doing the following:
