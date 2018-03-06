@@ -47,7 +47,7 @@ Since this is the first time you are seeing this, let me explain the semantics o
            post-ironic vinyl mixtape freegan meditation forage tousled 
            craft beer green juice hexagon letterpress neutra.
         </p>
-    </div
+    </div>
     ```
 
 ### Tasks
